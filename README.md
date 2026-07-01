@@ -1,1 +1,3 @@
-# exam-submission-in-c-
+# exam-submission-in-c++
+HERE I HAVE UPLOAD THE OUTPUT OF THE ALL GIVE PROGRAMS 
+# OUTPUT 
